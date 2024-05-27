@@ -7,10 +7,13 @@ export const config = {
 // 60, "2 days", "10h", "7d". A numeric value is interpreted as a seconds count. If you use a string be sure you provide the time units (days, hours, etc), otherwise milliseconds unit is used by default ("120" is equal to "120ms").
 
 export const FOLDER_UPLOAD = 'upload'
+// export const FOLDER_UPLOAD = ''
 
 export const FOLDERS = {
   PRODUCT: 'product',
+  // PRODUCT: '',
   AVATAR: 'avatar',
 }
 
 export const ROUTE_IMAGE = 'images'
+// export const ROUTE_IMAGE = ''
